@@ -11,11 +11,6 @@ export default function Hero() {
 
       <div className="max-w-6xl mx-auto px-6 lg:px-10 grid lg:grid-cols-12 gap-12 lg:gap-16 items-center">
         <div className="lg:col-span-7">
-          <div className="animate-fade-up flex items-center gap-2 text-xs font-medium uppercase tracking-[0.2em] text-[var(--accent)] mb-6">
-            <span className="w-8 h-px bg-[var(--accent)]" />
-            PhD, RDN · Public Health Nutrition
-          </div>
-
           <h1 className="animate-fade-up-delay-1 font-serif text-5xl sm:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-balance">
             Nutrition science{" "}
             <span className="italic text-[var(--accent)]">in service of</span>{" "}
