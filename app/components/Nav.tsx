@@ -36,7 +36,8 @@ export default function Nav() {
           href="#"
           className="font-serif text-lg tracking-tight flex-shrink-0 whitespace-nowrap"
         >
-          Alison Brown<span className="text-[var(--accent)]">.</span>
+          Alison G.M. Brown<span className="text-[var(--accent)]">,</span>{" "}
+          <span className="text-[var(--muted)] text-sm font-sans">PhD RDN</span>
         </a>
 
         <nav className="hidden xl:flex items-center gap-7 text-sm flex-1 justify-center">
