@@ -11,7 +11,7 @@ const themes = [
   },
   {
     title: "Community-Engaged Science",
-    body: "Building research that begins with — not about — the communities it&apos;s meant to serve. Co-designing studies, training, and translation.",
+    body: "Building research that begins with — not about — the communities it's meant to serve. Co-designing studies, training, and translation.",
     tags: ["CBPR", "Translation", "Capacity"],
   },
   {
@@ -74,21 +74,21 @@ export default function Research() {
           <div className="grid md:grid-cols-3 gap-8 items-center">
             <div className="md:col-span-2">
               <div className="text-xs uppercase tracking-[0.2em] opacity-70 mb-3">
-                Featured initiative
+                Featured publication
               </div>
               <h3 className="font-serif text-2xl lg:text-3xl mb-3">
-                A Decade of Nutrition & Health Disparities Research at NIH,
-                2010–2019
+                Perspective on Advancing Health Equity: Enhancing Impact Through
+                Collaboration
               </h3>
               <p className="opacity-85 leading-relaxed">
-                Co-authored landmark review charting how the NIH&apos;s nutrition
-                health-disparities portfolio evolved over a decade — and what
-                the next ten years need to look like. Published in the American
-                Journal of Clinical Nutrition.
+                A perspective on how cross-sector collaboration — across federal
+                agencies, academic researchers, and community partners — can
+                amplify the reach and impact of health-equity science. Published
+                in JACC Advances.
               </p>
             </div>
             <a
-              href="https://pubmed.ncbi.nlm.nih.gov/35469699/"
+              href="https://pubmed.ncbi.nlm.nih.gov/39130019/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full bg-white text-[var(--accent)] text-sm font-medium hover:bg-[var(--accent-soft)] transition-colors"
