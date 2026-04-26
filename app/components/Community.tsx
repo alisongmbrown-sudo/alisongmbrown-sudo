@@ -23,9 +23,8 @@ export default function Community() {
         <div className="grid md:grid-cols-3 gap-6">
           <div className="p-8 rounded-2xl bg-[var(--background)] border border-[var(--border)]">
             <div className="w-12 h-12 rounded-xl bg-[var(--accent-soft)] flex items-center justify-center mb-6">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5">
-                <path d="M12 14l9-5-9-5-9 5 9 5z" />
-                <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M9 3h6v4h4v6h-4v4H9v-4H5V9h4z" />
               </svg>
             </div>
             <h3 className="font-serif text-xl mb-3">Carney Hospital</h3>
