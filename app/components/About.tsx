@@ -18,7 +18,7 @@ export default function About() {
             My path into nutrition began at home — watching my mother navigate the
             health consequences of obesity. It pushed me toward prevention rather
             than treatment, and toward the structural questions that decide who
-            gets to live a long, healthy life and who doesn&apos;t.
+            gets to live a long, healthy life and who doesn't.
           </p>
           <p>
             As an undergraduate at <strong>Spelman College</strong>, I studied
@@ -30,10 +30,10 @@ export default function About() {
           </p>
           <p>
             I earned an MS in Applied Physiology and Nutrition at{" "}
-            <strong>Columbia University&apos;s Teachers College</strong>, then a
+            <strong>Columbia University's Teachers College</strong>, then a
             PhD in Food Policy and Applied Nutrition at the{" "}
             <strong>Friedman School at Tufts University</strong>. Today, as a
-            Program Director at the NIH&apos;s National Heart, Lung, and Blood
+            Program Director at the NIH's National Heart, Lung, and Blood
             Institute, I help shape research that takes social determinants of
             health seriously — and brings communities into the science.
           </p>

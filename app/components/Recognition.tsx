@@ -56,7 +56,7 @@ export default function Recognition() {
           </div>
           <div className="lg:col-span-7 lg:pt-4">
             <p className="text-lg text-[var(--muted)] leading-relaxed">
-              Awards aren&apos;t the point — but I&apos;m grateful for the
+              Awards aren't the point — but I'm grateful for the
               communities and institutions that have recognized this work and
               kept me accountable to it.
             </p>

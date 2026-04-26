@@ -6,7 +6,7 @@ export default function Contact() {
           Get in touch
         </div>
         <h2 className="font-serif text-4xl lg:text-6xl leading-[1.05] tracking-tight mb-6 text-balance">
-          Let&apos;s build healthier futures, together.
+          Let's build healthier futures, together.
         </h2>
         <p className="text-lg text-[var(--muted)] max-w-2xl mx-auto leading-relaxed mb-12">
           For speaking engagements, research collaborations, media inquiries, or

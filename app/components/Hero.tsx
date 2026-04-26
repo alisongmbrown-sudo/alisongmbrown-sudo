@@ -23,7 +23,7 @@ export default function Hero() {
           </h1>
 
           <p className="animate-fade-up-delay-2 mt-8 text-lg lg:text-xl leading-relaxed text-[var(--muted)] max-w-2xl text-pretty">
-            I&apos;m Alison Brown — a public health nutrition researcher whose
+            I'm Alison Brown — a public health nutrition researcher whose
             work centers on the social determinants of health and
             nutrition-related disparities. I write, teach, and partner with
             communities to translate science into policy and practice.

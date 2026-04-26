@@ -46,7 +46,7 @@ const experience = [
     role: "Manna Food Center · Boston NAACP · Boston Public Health Commission",
     org: "Community service & civic engagement",
     detail:
-      "Hunger-relief volunteering with Manna Food Center, leadership roles with the Boston Branch NAACP, and a Fellowship at the Boston Public Health Commission&apos;s Office of Health Equity.",
+      "Hunger-relief volunteering with Manna Food Center, leadership roles with the Boston Branch NAACP, and a Fellowship at the Boston Public Health Commission's Office of Health Equity.",
   },
 ];
 

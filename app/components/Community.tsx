@@ -10,11 +10,11 @@ export default function Community() {
             Community & Education
           </div>
           <h2 className="font-serif text-4xl lg:text-5xl leading-tight tracking-tight mb-6">
-            Science doesn&apos;t change anything until it leaves the journal.
+            Science doesn't change anything until it leaves the journal.
           </h2>
           <p className="text-lg text-[var(--muted)] leading-relaxed">
             Alongside the research, I teach, mentor, and partner with community
-            organizations. Some of the work I&apos;m proudest of has happened in
+            organizations. Some of the work I'm proudest of has happened in
             church basements, community gyms, and clinic waiting rooms — not
             conference halls.
           </p>
@@ -31,7 +31,7 @@ export default function Community() {
             <h3 className="font-serif text-xl mb-3">Carney Hospital</h3>
             <p className="text-sm text-[var(--muted)] leading-relaxed">
               Designed and led a patient education program in Dorchester through
-              an independent study with master&apos;s students — bringing
+              an independent study with master's students — bringing
               evidence-based nutrition guidance to a safety-net hospital.
             </p>
           </div>
@@ -60,7 +60,7 @@ export default function Community() {
             </div>
             <h3 className="font-serif text-xl mb-3">Manna Food Center</h3>
             <p className="text-sm text-[var(--muted)] leading-relaxed">
-              Volunteering with Montgomery County&apos;s leading hunger-relief
+              Volunteering with Montgomery County's leading hunger-relief
               nonprofit — distributing food, supporting nutrition education, and
               helping families across the DMV access fresh, healthy groceries.
             </p>
