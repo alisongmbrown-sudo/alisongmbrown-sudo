@@ -7,15 +7,22 @@ const experience = [
       "Division of Cardiovascular Sciences. Lead nutrition health-disparities research portfolio and serve as Co-Chair of the NIH Diet, Nutrition, and Health Outcomes Working Group.",
   },
   {
-    period: "2019 — Present",
+    period: "2019 — 2022",
     role: "Adjunct Professor of Nutrition",
     org: "Prince George's Community College",
     detail:
       "Teaching the next generation of public-health and allied-health professionals.",
   },
   {
+    period: "2023 — 2026",
+    role: "Board of Directors",
+    org: "American Society for Nutrition (ASN)",
+    detail:
+      "Serving on the governing board of the leading professional society for nutrition researchers, advancing the field's strategic priorities and member community.",
+  },
+  {
     period: "2017 — 2018",
-    role: "TL1 Postdoctoral Fellow",
+    role: "Health Disparities Clinical Fellow",
     org: "Tufts CTSI · Tufts Medical Center",
     detail:
       "Analyzed health disparities, insurance stability, and diabetes outcomes by race and ethnicity. Earned a graduate certificate in Clinical & Translational Science.",

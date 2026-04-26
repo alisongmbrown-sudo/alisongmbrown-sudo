@@ -4,7 +4,7 @@ const topics = [
     body: "Why diet-related disease is a justice issue, and what evidence-based interventions look like at scale.",
   },
   {
-    title: "Translating NIH Science",
+    title: "Translating Science",
     body: "How federally-funded nutrition research becomes policy, programs, and practice — and where the gaps are.",
   },
   {

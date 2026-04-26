@@ -23,11 +23,10 @@ export default function Hero() {
           </h1>
 
           <p className="animate-fade-up-delay-2 mt-8 text-lg lg:text-xl leading-relaxed text-[var(--muted)] max-w-2xl text-pretty">
-            I&apos;m Alison Brown — a public health nutrition researcher and Program
-            Director at the National Institutes of Health, where my work centers
-            on the social determinants of health and nutrition-related disparities.
-            I write, teach, and partner with communities to translate science into
-            policy and practice.
+            I&apos;m Alison Brown — a public health nutrition researcher whose
+            work centers on the social determinants of health and
+            nutrition-related disparities. I write, teach, and partner with
+            communities to translate science into policy and practice.
           </p>
 
           <div className="animate-fade-up-delay-3 mt-10 flex flex-wrap items-center gap-4">
@@ -89,11 +88,8 @@ export default function Hero() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[var(--foreground)]/40 via-transparent to-transparent" />
               <div className="absolute bottom-0 inset-x-0 p-6 text-white">
-                <div className="text-xs uppercase tracking-[0.2em] opacity-80 mb-1">
-                  Bethesda, MD
-                </div>
                 <div className="font-serif text-xl">Alison G.M. Brown</div>
-                <div className="text-sm opacity-85">PhD, RDN · NHLBI</div>
+                <div className="text-sm opacity-85">PhD, RDN</div>
               </div>
             </div>
 

@@ -8,7 +8,7 @@ export default function About() {
               About
             </div>
             <h2 className="font-serif text-4xl lg:text-5xl leading-tight tracking-tight">
-              From Spelman to The Gambia to the NIH.
+              From Spelman to The Gambia to Federal Service.
             </h2>
           </div>
         </div>

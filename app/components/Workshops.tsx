@@ -67,7 +67,7 @@ export default function Workshops() {
             >
               <div className="flex items-start justify-between mb-6">
                 <div className="text-xs font-semibold uppercase tracking-[0.2em] text-[var(--accent)] px-3 py-1 rounded-full bg-[var(--accent-soft)]">
-                  Workshop · {w.year}
+                  Workshop
                 </div>
                 <svg
                   className="text-[var(--muted)] group-hover:text-[var(--accent)] group-hover:translate-x-1 group-hover:-translate-y-1 transition-all"

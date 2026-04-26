@@ -26,28 +26,14 @@ export default function Contact() {
             </svg>
             Connect on LinkedIn
           </a>
-          <a
-            href="https://nutrition.org/careers/members/alison-brown-phd-rdn/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full border border-[var(--border)] text-sm font-medium hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
-          >
-            ASN profile
-          </a>
         </div>
 
-        <div className="mt-20 grid sm:grid-cols-3 gap-8 pt-12 border-t border-[var(--border)]">
+        <div className="mt-20 grid sm:grid-cols-2 gap-8 pt-12 border-t border-[var(--border)]">
           <div>
             <div className="text-xs uppercase tracking-wider text-[var(--muted)] mb-2">
               Best for
             </div>
             <div className="font-serif text-lg">Speaking & collaborations</div>
-          </div>
-          <div>
-            <div className="text-xs uppercase tracking-wider text-[var(--muted)] mb-2">
-              Based in
-            </div>
-            <div className="font-serif text-lg">Bethesda, Maryland</div>
           </div>
           <div>
             <div className="text-xs uppercase tracking-wider text-[var(--muted)] mb-2">

@@ -76,8 +76,9 @@ export default function Community() {
               NIH Diet, Nutrition, and Health Outcomes Working Group
             </h3>
             <p className="text-[var(--muted)] leading-relaxed">
-              Co-Chair. Coordinates strategy across NIH Institutes & Centers to
-              advance research on nutrition-related health disparities.
+              Co-Chair. Coordinates strategy across NIH Institutes, Centers, and
+              Offices to advance research on nutrition-related health
+              disparities.
             </p>
           </div>
           <div className="p-10 rounded-2xl bg-[var(--accent-soft)]">

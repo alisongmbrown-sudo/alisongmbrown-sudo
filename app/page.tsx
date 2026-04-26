@@ -21,9 +21,9 @@ export default function Home() {
         <Experience />
         <Research />
         <Workshops />
-        <Recognition />
         <Community />
         <Writing />
+        <Recognition />
         <Speaking />
         <Contact />
       </main>

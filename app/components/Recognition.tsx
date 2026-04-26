@@ -25,9 +25,19 @@ const awards = [
     org: "Delta Sigma Theta · Pfizer",
   },
   {
-    year: "Fellowship",
-    title: "Albert Schweitzer Fellow",
-    org: "Health Equity Fellowship",
+    year: "Tufts",
+    title: "Rising Star Award",
+    org: "Friedman School of Nutrition Science and Policy",
+  },
+  {
+    year: "NIH",
+    title: "NHLBI Director's Award",
+    org: "National Heart, Lung, and Blood Institute",
+  },
+  {
+    year: "NIH",
+    title: "NIH Director's Award",
+    org: "National Institutes of Health",
   },
 ];
 
@@ -59,9 +69,6 @@ export default function Recognition() {
               key={a.title}
               className="p-8 bg-[var(--background)] hover:bg-[var(--accent-soft)] transition-colors"
             >
-              <div className="text-xs font-medium uppercase tracking-wider text-[var(--accent)] mb-4">
-                {a.year}
-              </div>
               <div className="font-serif text-xl leading-snug mb-3">
                 {a.title}
               </div>
